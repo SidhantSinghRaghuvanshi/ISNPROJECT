@@ -1,4 +1,5 @@
 # ISNPROJECT
 This is student networking site
 <br>
-Author - Sidhant kumar
+Authir - Sidhant Kumar
+<br>
